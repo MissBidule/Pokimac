@@ -1,3 +1,23 @@
+EN :
+
+Pokimac is a game created by LouLiLou (Lilou ALIDOR and Lou COUARD) during a C project the first semester of IMAC in 2022.
+
+The game should be played with the mouse and the arrows key.
+The complete rules are indicated by launching the game and clicking the "Rules" button (there are 3 rules pages written in French).
+
+In order to compile, you need to installe the SDL1.2.15, SDL_ttf2.0 (for SDL1.2) and SDL_image1.2 (for SDL1.2) librairies.
+
+If you're on Linux or Mac, compile by modifying the makefile (to link the librairies).
+If you're on Windows, make sure you're compiling with MinGW32 in 32 bits (Code::Blocks recommended).
+
+Every repertories must be where the executable is.
+
+Check that you can compile 1.2 SDL librairies before compiling the game.
+
+If you have any questions, Stack Overflow is your friend.
+
+FR :
+
 Pokimac est un jeu créé par LouLiLou (Lilou ALIDOR et Lou COUARD) lors du projet de C au S1 de l'IMAC en 2022.
 
 Le jeu se joue à la souris et aux flèches du clavier.
